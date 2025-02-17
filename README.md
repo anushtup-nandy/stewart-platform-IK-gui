@@ -1,6 +1,6 @@
 # Stewart Platform Simulation
 
-![Stewart Platform Simulation](pics\stewart.png)
+![Stewart Platform Simulation](./pics/stewart.png)
 
 ## Overview
 
